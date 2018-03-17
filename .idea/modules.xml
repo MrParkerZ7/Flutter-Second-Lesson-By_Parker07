@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/Flutter-Second-Lesson-By_Parker07.iml" filepath="$PROJECT_DIR$/Flutter-Second-Lesson-By_Parker07.iml" />
       <module fileurl="file://$PROJECT_DIR$/flutter_01_stateless_widget/flutter_01_stateless_widget.iml" filepath="$PROJECT_DIR$/flutter_01_stateless_widget/flutter_01_stateless_widget.iml" />
       <module fileurl="file://$PROJECT_DIR$/flutter_01_stateless_widget/flutter_01_stateless_widget_android.iml" filepath="$PROJECT_DIR$/flutter_01_stateless_widget/flutter_01_stateless_widget_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_02_stateful_widget/flutter_02_stateful_widget.iml" filepath="$PROJECT_DIR$/flutter_02_stateful_widget/flutter_02_stateful_widget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_02_stateful_widget/flutter_02_stateful_widget_android.iml" filepath="$PROJECT_DIR$/flutter_02_stateful_widget/flutter_02_stateful_widget_android.iml" />
     </modules>
   </component>
 </project>

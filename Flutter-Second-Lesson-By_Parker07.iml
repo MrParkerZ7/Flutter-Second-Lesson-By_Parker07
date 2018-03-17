@@ -3,10 +3,18 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/flutter_01_stateful_widgets/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_01_stateful_widgets/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_01_stateful_widgets/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_01_stateful_widgets/test/packages" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_01_stateless_widget/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_01_stateless_widget/build" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_01_stateless_widget/packages" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_01_stateless_widget/test/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_02_stateful_widget/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_02_stateful_widget/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_02_stateful_widget/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_02_stateful_widget/test/packages" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Dart SDK" level="project" />
