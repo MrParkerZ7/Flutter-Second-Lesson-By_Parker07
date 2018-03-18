@@ -13,6 +13,12 @@
       <module fileurl="file://$PROJECT_DIR$/flutter_04_text_input/flutter_04_text_input_android.iml" filepath="$PROJECT_DIR$/flutter_04_text_input/flutter_04_text_input_android.iml" />
       <module fileurl="file://$PROJECT_DIR$/flutter_05_navigation_bar/flutter_05_navigation_bar.iml" filepath="$PROJECT_DIR$/flutter_05_navigation_bar/flutter_05_navigation_bar.iml" />
       <module fileurl="file://$PROJECT_DIR$/flutter_05_navigation_bar/flutter_05_navigation_bar_android.iml" filepath="$PROJECT_DIR$/flutter_05_navigation_bar/flutter_05_navigation_bar_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_06_http_rest_api/flutter_06_http_rest_api.iml" filepath="$PROJECT_DIR$/flutter_06_http_rest_api/flutter_06_http_rest_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_06_http_rest_api/flutter_06_http_rest_api_android.iml" filepath="$PROJECT_DIR$/flutter_06_http_rest_api/flutter_06_http_rest_api_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_07_json_list_data/flutter_07_json_list_data.iml" filepath="$PROJECT_DIR$/flutter_07_json_list_data/flutter_07_json_list_data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_07_json_list_data/flutter_07_json_list_data_android.iml" filepath="$PROJECT_DIR$/flutter_07_json_list_data/flutter_07_json_list_data_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_08_animations/flutter_08_animations.iml" filepath="$PROJECT_DIR$/flutter_08_animations/flutter_08_animations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_08_animations/flutter_08_animations_android.iml" filepath="$PROJECT_DIR$/flutter_08_animations/flutter_08_animations_android.iml" />
     </modules>
   </component>
 </project>

@@ -27,6 +27,18 @@
       <excludeFolder url="file://$MODULE_DIR$/flutter_05_navigation_bar/build" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_05_navigation_bar/packages" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_05_navigation_bar/test/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_06_http_rest_api/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_06_http_rest_api/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_06_http_rest_api/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_06_http_rest_api/test/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_07_json_list_data/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_07_json_list_data/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_07_json_list_data/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_07_json_list_data/test/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_08_animations/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_08_animations/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_08_animations/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_08_animations/test/packages" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Dart SDK" level="project" />
