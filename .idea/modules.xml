@@ -7,6 +7,12 @@
       <module fileurl="file://$PROJECT_DIR$/flutter_01_stateless_widget/flutter_01_stateless_widget_android.iml" filepath="$PROJECT_DIR$/flutter_01_stateless_widget/flutter_01_stateless_widget_android.iml" />
       <module fileurl="file://$PROJECT_DIR$/flutter_02_stateful_widget/flutter_02_stateful_widget.iml" filepath="$PROJECT_DIR$/flutter_02_stateful_widget/flutter_02_stateful_widget.iml" />
       <module fileurl="file://$PROJECT_DIR$/flutter_02_stateful_widget/flutter_02_stateful_widget_android.iml" filepath="$PROJECT_DIR$/flutter_02_stateful_widget/flutter_02_stateful_widget_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_03_routes_navigation/flutter_03_routes_navigation.iml" filepath="$PROJECT_DIR$/flutter_03_routes_navigation/flutter_03_routes_navigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_03_routes_navigation/flutter_03_routes_navigation_android.iml" filepath="$PROJECT_DIR$/flutter_03_routes_navigation/flutter_03_routes_navigation_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_04_text_input/flutter_04_text_input.iml" filepath="$PROJECT_DIR$/flutter_04_text_input/flutter_04_text_input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_04_text_input/flutter_04_text_input_android.iml" filepath="$PROJECT_DIR$/flutter_04_text_input/flutter_04_text_input_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_05_navigation_bar/flutter_05_navigation_bar.iml" filepath="$PROJECT_DIR$/flutter_05_navigation_bar/flutter_05_navigation_bar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_05_navigation_bar/flutter_05_navigation_bar_android.iml" filepath="$PROJECT_DIR$/flutter_05_navigation_bar/flutter_05_navigation_bar_android.iml" />
     </modules>
   </component>
 </project>

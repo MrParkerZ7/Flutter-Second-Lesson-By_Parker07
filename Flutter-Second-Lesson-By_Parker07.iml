@@ -15,6 +15,18 @@
       <excludeFolder url="file://$MODULE_DIR$/flutter_02_stateful_widget/build" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_02_stateful_widget/packages" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_02_stateful_widget/test/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_03_routes_navigation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_03_routes_navigation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_03_routes_navigation/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_03_routes_navigation/test/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_04_text_input/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_04_text_input/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_04_text_input/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_04_text_input/test/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_05_navigation_bar/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_05_navigation_bar/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_05_navigation_bar/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_05_navigation_bar/test/packages" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Dart SDK" level="project" />
