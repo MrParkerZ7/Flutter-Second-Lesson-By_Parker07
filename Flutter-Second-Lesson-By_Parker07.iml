@@ -39,6 +39,10 @@
       <excludeFolder url="file://$MODULE_DIR$/flutter_08_animations/build" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_08_animations/packages" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_08_animations/test/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_09_json_storage/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_09_json_storage/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_09_json_storage/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_09_json_storage/test/packages" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Dart SDK" level="project" />

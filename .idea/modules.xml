@@ -19,6 +19,8 @@
       <module fileurl="file://$PROJECT_DIR$/flutter_07_json_list_data/flutter_07_json_list_data_android.iml" filepath="$PROJECT_DIR$/flutter_07_json_list_data/flutter_07_json_list_data_android.iml" />
       <module fileurl="file://$PROJECT_DIR$/flutter_08_animations/flutter_08_animations.iml" filepath="$PROJECT_DIR$/flutter_08_animations/flutter_08_animations.iml" />
       <module fileurl="file://$PROJECT_DIR$/flutter_08_animations/flutter_08_animations_android.iml" filepath="$PROJECT_DIR$/flutter_08_animations/flutter_08_animations_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_09_json_storage/flutter_09_json_storage.iml" filepath="$PROJECT_DIR$/flutter_09_json_storage/flutter_09_json_storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_09_json_storage/flutter_09_json_storage_android.iml" filepath="$PROJECT_DIR$/flutter_09_json_storage/flutter_09_json_storage_android.iml" />
     </modules>
   </component>
 </project>

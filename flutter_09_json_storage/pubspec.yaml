@@ -1,0 +1,17 @@
+name: flutter_09_json_storage
+description: A new Flutter application.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider: ^0.3.1
+  cupertino_icons: ^0.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
